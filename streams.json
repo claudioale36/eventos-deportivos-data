@@ -377,7 +377,235 @@
       "url": "https://dglvz29s.fubo18.com/bicolortv2/mono.m3u8?token=a7625bfa76558638b27b15a17b14c494d04c61e9-32-1792286217-1792268217",
       "referer": "https://la18hd.su/",
       "updatedAt": "2026-10-17T20:32:03.226Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=tntsports": {
+      "name": "TNT Sports",
+      "url": "https://ym9yzq.fubo18.com/tntsports/mono.m3u8?token=56f6b8cce5e5d4e14a746ccd9dadadb6c4c009b2-e2-1792287966-1792269966",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:01:18.631Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=tntsportschile": {
+      "name": "TNT Sports Premiun CL",
+      "url": "https://b2zmawnpyww.fubo18.com/tntsportschile/mono.m3u8?token=3e67138c4c7918dd772f679864856d78b98a26f2-e4-1792288010-1792270010",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:01:57.311Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney8": {
+      "name": "Disney 08",
+      "url": "https://dglvz29s.fubo18.com/disney8/mono.m3u8?token=076b6bb00b62c3a0e4502f797b00e5853ffaf440-cd-1792288049-1792270049",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:02:34.668Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espn2mx": {
+      "name": "ESPN2 MX",
+      "url": "https://dglvz29s.fubo18.com/espn2mx/mono.m3u8?token=33d37ea6b5aee5878e517ccad30be1e794e18550-4a-1792288055-1792270055",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:02:39.907Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=bicolortv": {
+      "name": "Bicolor PREMIUM",
+      "url": "https://y2fzdgxl.fubo18.com/bicolortv/mono.m3u8?token=196d2847dbb413e8898468e7dc2ef3e4f153f5f6-9a-1792288060-1792270060",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:02:46.397Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney9": {
+      "name": "Disney 09",
+      "url": "https://a2lja3m.fubo18.com/disney9/mono.m3u8?token=6c4bbe3bc4dead89978dea80c6f5bdddb41e9393-42-1792288067-1792270067",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:02:52.487Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=foxsports": {
+      "name": "Fox Sports",
+      "url": "https://ym9yzq.fubo18.com/foxsports/mono.m3u8?token=a60de82e1557494f5f86374bfb46ecd173245016-d1-1792288072-1792270072",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:02:58.166Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney10": {
+      "name": "Disney 10",
+      "url": "https://dglvz29s.fubo18.com/disney10/mono.m3u8?token=51b077b8db54a7a70bc38a0e7e0b3524e380f406-20-1792288078-1792270078",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:03:03.161Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=beinsportes": {
+      "name": "BeIN Sports Ñ",
+      "url": "https://c2f2zq.fubo18.com/beinsportes/mono.m3u8?token=59475951d25dfa21f3f5b56b737fc837e6971298-7e-1792288083-1792270083",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:03:08.790Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney11": {
+      "name": "Disney 11",
+      "url": "https://b2zmawnpyww.fubo18.com/disney11/mono.m3u8?token=5bf46df889240d5c5c2ffd3b96f037ec8dec0746-1f-1792288089-1792270089",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:03:14.253Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espn": {
+      "name": "ESPN",
+      "url": "https://y2fzdgxl.fubo18.com/espn/mono.m3u8?token=c8ac744670420e80cddf1d85975931690094e72f-ae-1792288094-1792270094",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:03:19.197Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney12": {
+      "name": "Disney 12",
+      "url": "https://c2f2zq.fubo18.com/disney12/mono.m3u8?token=a76483480e7eb8e9efed4e946ee3fd510a8ea177-bd-1792288099-1792270099",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:03:23.354Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espnmx": {
+      "name": "ESPN MX",
+      "url": "https://yxdlc29tzq.fubo18.com/espnmx/mono.m3u8?token=84f22777d07f01b49327887b9559c119ce924a8e-7f-1792288135-1792270135",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:04:01.501Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=telemundo": {
+      "name": "Telemundo",
+      "url": "https://bmf0aw9u.fubo18.com/telemundo/mono.m3u8?token=ed06aeb07895e8a6a5748cfb12a9f66f71ac5c0a-dc-1792288141-1792270141",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:04:07.295Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=teleamazonas": {
+      "name": "Teleamazonas",
+      "url": "https://dw5pdgvk.fubo18.com/teleamazonas/mono.m3u8?token=7ac9eec9a56f9eec625ae85b770527f9349e6430-1d-1792288147-1792270147",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:04:12.986Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espn3": {
+      "name": "ESPN3",
+      "url": "https://bmf0aw9u.fubo18.com/espn3/mono.m3u8?token=6d8202301946cc3bb10487ce3be45a11b4cf54da-58-1792288153-1792270153",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:04:18.325Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney13": {
+      "name": "Disney 13",
+      "url": "https://bmf0aw9u.fubo18.com/disney13/mono.m3u8?token=1c09bf4969ef0d7141337a64a21ac4177c129cb8-64-1792288158-1792270158",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:04:23.371Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espndeportes": {
+      "name": "ESPN Deportes",
+      "url": "https://yxdlc29tzq.fubo18.com/espndeportes/mono.m3u8?token=6b3d9152f4b384d407ae50360b427aa6ed7f9046-ce-1792288195-1792270195",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:00.117Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=hypermotion1": {
+      "name": "LaLiga TV Hypermotion ",
+      "url": "https://yxdlc29tzq.fubo18.com/hypermotion1/mono.m3u8?token=69050684ad7254750dca71fbdc74c00a49462580-d4-1792288200-1792270200",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:05.412Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=bicolortv2": {
+      "name": "Bicolor TV 2",
+      "url": "https://b2zmawnpyww.fubo18.com/bicolortv2/mono.m3u8?token=6f2139256caa1abc3bd93147e2e109c40078719b-f-1792288205-1792270205",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:11.080Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney16": {
+      "name": "Disney 16",
+      "url": "https://am91cm5leq.fubo18.com/disney16/mono.m3u8?token=5385953bbdbd360a9beaf3af7cab6c3354149d12-68-1792288211-1792270211",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:16.414Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa": {
+      "name": "Fox Sports 2 USA",
+      "url": "https://ym9yzq.fubo18.com/foxsports2_usa/mono.m3u8?token=928f20b85eafb90082d03efeb771184c52e1ab72-7c-1792288216-1792270216",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:21.968Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=winplus": {
+      "name": "Win Sports +",
+      "url": "https://yxdlc29tzq.fubo18.com/winplus/mono.m3u8?token=b53965ea0df9ac9262071866714548c028e6397d-5f-1792288222-1792270222",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:05:27.086Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=liga1max": {
+      "name": "Liga1max",
+      "url": "https://ewvz.fubo18.com/liga1max/mono.m3u8?token=9104e5342e9a16565df47552648640dfc3cb7be2-a2-1792288259-1792270259",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:06:04.624Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=liga1max_op2": {
+      "name": "Liga1max OP2",
+      "url": "https://dw5pdgvk.fubo18.com/liga1max_op2/mono.m3u8?token=8cd2cc9fb097ea8eef76ea7117f3c1a241ab1057-a5-1792288296-1792270296",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:06:41.542Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney14": {
+      "name": "Disney 14",
+      "url": "https://ewvz.fubo18.com/disney14/mono.m3u8?token=3b3c37a304bb090fb6b42d9b3e6c083f32a158b0-72-1792288301-1792270301",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:06:46.628Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=espnpremium": {
+      "name": "ESPN Premium",
+      "url": "https://c2f2zq.fubo18.com/espnpremium/mono.m3u8?token=8eea38d8320032cd3221a9548926ad5789c0f270-a2-1792288307-1792270307",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:06:52.255Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=premiere2": {
+      "name": "Premiere 2 BR",
+      "url": "https://bmf0aw9u.fubo18.com/premiere2/mono.m3u8?token=4010a7a570f4ac22bacfca6591d2b661b9137dae-be-1792288344-1792270344",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:07:29.317Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=premiere1": {
+      "name": "Premiere BR",
+      "url": "https://bgvnzw5k.fubo18.com/premiere1/mono.m3u8?token=a59621872c8ba0271b8524b3fa58c3a80248e494-2e-1792288349-1792270349",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:07:35.161Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=ecuavisa": {
+      "name": "Ecuavisa",
+      "url": "https://dglvz29s.fubo18.com/ecuavisa/mono.m3u8?token=5a52470e42bbb40cb484627b9adb6046fad06672-e6-1792288355-1792270355",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:07:43.139Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney18": {
+      "name": "Disney 18",
+      "url": "https://b2zmawnpyww.fubo18.com/disney18/mono.m3u8?token=6489f09b49db1eb932d383739dee475fe45818e0-8d-1792288394-1792270394",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:08:19.306Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=universo": {
+      "name": "Universo",
+      "url": "https://c2f2zq.fubo18.com/universo/mono.m3u8?token=3c5cb69a2fa622ca6a101bc8db8685042b15cdc9-73-1792288400-1792270400",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:08:25.680Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=disney15": {
+      "name": "Disney 15",
+      "url": "https://yxdlc29tzq.fubo18.com/disney15/mono.m3u8?token=6722abe824f384dc9009ec0da5ec9afcedc4aa69-c4-1792288406-1792270406",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:08:31.482Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=tudn": {
+      "name": "TUDN USA",
+      "url": "https://ym9yzq.fubo18.com/tudn/mono.m3u8?token=5015688c9a22533f1fc484cdedb6c93b4ad751b8-5f-1792288411-1792270411",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:08:37.073Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=univision": {
+      "name": "Univision",
+      "url": "https://bgvnzw5k.fubo18.com/univision/mono.m3u8?token=a8e04428c5695f3741d0c47c0ced9d764b3f6cca-e6-1792288417-1792270417",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:08:42.748Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=canal5": {
+      "name": "Canal 5 MX",
+      "url": "https://am91cm5leq.fubo18.com/canal5/mono.m3u8?token=5534da6868b51030dab7b5ae7c3dfcae378181c8-d8-1792288486-1792270486",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:09:51.724Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=tudn_mx": {
+      "name": "TUDN MX",
+      "url": "https://y2fzdgxl.fubo18.com/tudn_mx/mono.m3u8?token=2847c73a98f0cec1c3d76d97f617dd5dbd4305b3-ef-1792288492-1792270492",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:09:57.404Z"
+    },
+    "https://la18hd.su/vivo/canal.php?stream=futv": {
+      "name": "FUTV",
+      "url": "https://ewvz.fubo18.com/futv/mono.m3u8?token=f8c3ef6e3e9ce033ea13e4fb126922d50acc4fe4-f1-1792288497-1792270497",
+      "referer": "https://la18hd.su/",
+      "updatedAt": "2026-10-17T21:10:02.998Z"
     }
   },
-  "lastUpdated": "2026-10-17T20:36:38.703Z"
+  "lastUpdated": "2026-10-17T21:10:08.021Z"
 }
