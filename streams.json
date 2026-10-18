@@ -1,59 +1,41 @@
 {
   "streams": {
-    "https://la18hd.su/vivo/canal.php?stream=winplus": {
-      "name": "Win Sports +",
-      "url": "https://c2f2zq.fubo18.com/winplus/mono.m3u8?token=22bbf3b4938a047a83bb25e996bc2d77c090a64c-61-1792311574-1792293574",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:34:39.639Z"
-    },
     "https://la18hd.su/vivo/canal.php?stream=liga1max": {
       "name": "Liga1max",
-      "url": "https://yxdlc29tzq.fubo18.com/liga1max/mono.m3u8?token=0682a16a486f924f92fdda05d229240af1d8b967-9b-1792311611-1792293611",
+      "url": "https://a2lja3m.fubo18.com/liga1max/mono.m3u8?token=4eb557afce4c679c13784b34be988f80d18e0ff4-6a-1792315309-1792297309",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:35:18.558Z"
+      "updatedAt": "2026-10-18T04:37:00.794Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=liga1max_op2": {
       "name": "Liga1max OP2",
-      "url": "https://b2zmawnpyww.fubo18.com/liga1max_op2/mono.m3u8?token=b6ab523f71c126a2b04a1c7e862b5e27e6afd13f-f3-1792311650-1792293650",
+      "url": "https://bgvnzw5k.fubo18.com/liga1max_op2/mono.m3u8?token=84a0cedc5f3a6be2c729cf93f400174387bbcea9-5f-1792315358-1792297358",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:35:56.278Z"
-    },
-    "https://la18hd.su/vivo/canal.php?stream=disney15": {
-      "name": "Disney 15",
-      "url": "https://b2zmawnpyww.fubo18.com/disney15/mono.m3u8?token=674a4b35057ab79feb3b02bbb7fab4a5b48e53ed-8d-1792311419-1792293419",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:32:07.082Z"
+      "updatedAt": "2026-10-18T04:37:47.211Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=tudn": {
       "name": "TUDN USA",
-      "url": "https://ym9yzq.fubo18.com/tudn/mono.m3u8?token=745a85d12f8c6584b1dd6d42be7bf88f84ce518a-21-1792311480-1792293480",
+      "url": "https://c2f2zq.fubo18.com/tudn/mono.m3u8?token=c2240a141c691f01cc3f2955b49d5f4279ba2fb8-ac-1792315399-1792297399",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:33:09.267Z"
+      "updatedAt": "2026-10-18T04:38:25.084Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=univision": {
       "name": "Univision",
-      "url": "https://b2zmawnpyww.fubo18.com/univision/mono.m3u8?token=4882045d926383b058dae624af0c1ce84fed894d-1f-1792311489-1792293489",
+      "url": "https://bgvnzw5k.fubo18.com/univision/mono.m3u8?token=b04744ad4d0cf6581088c3a12adce3b414ef92d5-d5-1792315437-1792297437",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:33:15.830Z"
+      "updatedAt": "2026-10-18T04:39:04.101Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=canal5": {
       "name": "Canal 5 MX",
-      "url": "https://dw5pdgvk.fubo18.com/canal5/mono.m3u8?token=12ccfdfefb429f0061c10360fbdfeee3f2a367c5-b3-1792311561-1792293561",
+      "url": "https://c2f2zq.fubo18.com/canal5/mono.m3u8?token=f49cf2c91bf9b1f807cf15468f45c9dc5bbaa807-81-1792315444-1792297444",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:34:26.759Z"
+      "updatedAt": "2026-10-18T04:39:10.090Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=tudn_mx": {
       "name": "TUDN MX",
-      "url": "https://am91cm5leq.fubo18.com/tudn_mx/mono.m3u8?token=d0a8c9b9d3ec62dcc10877d29a9d3e774ed6d8cd-78-1792311567-1792293567",
+      "url": "https://b2zmawnpyww.fubo18.com/tudn_mx/mono.m3u8?token=09c473306ad8f668af48b4e9a189bfea8e15c10e-1d-1792315450-1792297450",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:34:33.434Z"
-    },
-    "https://la18hd.su/vivo/canal.php?stream=espn2": {
-      "name": "ESPN2",
-      "url": "https://ewvz.fubo18.com/espn2/mono.m3u8?token=25946bb3e56df8e6e2383e407345236978ab856d-57-1792311408-1792293408",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-18T03:31:58.255Z"
+      "updatedAt": "2026-10-18T04:39:16.253Z"
     }
   },
-  "lastUpdated": "2026-10-18T03:36:06.031Z"
+  "lastUpdated": "2026-10-18T04:39:21.453Z"
 }
