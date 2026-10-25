@@ -1,41 +1,23 @@
 {
   "streams": {
-    "https://la18hd.su/vivo/canal.php?stream=disney13": {
-      "name": "Disney 13",
-      "url": "https://bgvnzw5k.fubo18.com/disney13/mono.m3u8?token=b331854c35ed6774a2feff7503d5f923ceaf49f2-4d-1792919649-1792901649",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:29:15.050Z"
-    },
-    "https://la18hd.su/vivo/canal.php?stream=espn3mx": {
-      "name": "ESPN3 MX",
-      "url": "https://am91cm5leq.fubo18.com/espn3mx/mono.m3u8?token=c6d7b1c99d5e79f0f7452186283843f4437e72d0-86-1792919655-1792901655",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:29:19.079Z"
-    },
     "https://la18hd.su/vivo/canal.php?stream=tudn": {
       "name": "TUDN USA",
-      "url": "https://ym9yzq.fubo18.com/tudn/mono.m3u8?token=cdc7a67343a9b391c369b870abe965348b35083f-1b-1792919691-1792901691",
+      "url": "https://y2fzdgxl.fubo18.com/tudn/mono.m3u8?token=4490292697dbd32e2979eb187a18cf0e8cab6396-fe-1792921588-1792903588",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:29:55.392Z"
+      "updatedAt": "2026-10-25T05:01:36.860Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=univision": {
       "name": "Univision",
-      "url": "https://bmf0aw9u.fubo18.com/univision/mono.m3u8?token=eb14a8453d0d5ccdd0a509084dd19e490a7a6dd4-c2-1792919728-1792901728",
+      "url": "https://bmf0aw9u.fubo18.com/univision/mono.m3u8?token=2bf1db22b9cf66246122275702da768fef2f3458-22-1792921628-1792903628",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:30:31.824Z"
+      "updatedAt": "2026-10-25T05:02:13.328Z"
     },
     "https://la18hd.su/vivo/canal.php?stream=canal5": {
       "name": "Canal 5 MX",
-      "url": "https://bmf0aw9u.fubo18.com/canal5/mono.m3u8?token=491ba889fac024d51b20dd44071c88362a68744a-e3-1792919732-1792901732",
+      "url": "https://bmf0aw9u.fubo18.com/canal5/mono.m3u8?token=6e2f23e5f68127eca4923423e05044e53e9d55b7-d2-1792921634-1792903634",
       "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:30:35.940Z"
-    },
-    "https://la18hd.su/vivo/canal.php?stream=futv": {
-      "name": "FUTV",
-      "url": "https://ewvz.fubo18.com/futv/mono.m3u8?token=0c363ff377618e830ce5555630098ea703c8f72d-d9-1792919641-1792901641",
-      "referer": "https://la18hd.su/",
-      "updatedAt": "2026-10-25T04:29:08.662Z"
+      "updatedAt": "2026-10-25T05:02:17.112Z"
     }
   },
-  "lastUpdated": "2026-10-25T04:30:37.482Z"
+  "lastUpdated": "2026-10-25T05:02:18.791Z"
 }
