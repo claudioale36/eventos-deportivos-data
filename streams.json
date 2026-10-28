@@ -2,9 +2,9 @@
   "streams": {
     "https://streamxhd.sbs/live1.php?stream=winsports": {
       "name": "Win Sports",
-      "url": "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=200.127.24.170&token=474acb327862458a6bc6879301bbb3f8de695591-d0-1793202835-1793148835",
+      "url": "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=200.127.24.170&token=80a4b70009c731ddda937856d1f2b64f3eee0038-47-1793206856-1793152856",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:24:00.586Z"
+      "updatedAt": "2026-10-28T04:31:03.293Z"
     },
     "https://streamxhd.sbs/live1.php?stream=winplus": {
       "name": "Win Sports +",
@@ -14,22 +14,22 @@
     },
     "https://streamxhd.sbs/live1.php?stream=nba4": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba4/index.m3u8?ip=200.127.24.170&token=0c83d4545416d43e59b8c1fced3a5928ca1eb02c-bb-1793204882-1793150882",
+      "url": "https://khala.futlivehd.com/global/nba4/index.m3u8?ip=200.127.24.170&token=b0f518b64eca8c74cd900bc9ae37994adbfbedb3-a1-1793206887-1793152887",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:58:05.596Z"
+      "updatedAt": "2026-10-28T04:31:35.734Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney15": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=5ce7875f90432066906a7770a245402f0c778376-b6-1793204871-1793150871",
+      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=3da8e412fd95d4938127c51ea107552441d218fe-91-1793206871-1793152871",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:57:59.474Z"
+      "updatedAt": "2026-10-28T04:31:19.328Z"
     },
     "https://streamxhd.sbs/live1.php?stream=max2": {
       "name": "HBO Max 2",
-      "url": "https://khala.futlivehd.com/global/max2/index.m3u8?ip=200.127.24.170&token=05bc8cdf9dced26878560a5b08af5850f08356b5-99-1793204888-1793150888",
+      "url": "https://khala.futlivehd.com/global/max2/index.m3u8?ip=200.127.24.170&token=43db360b8d6031d44ce55d3a0b4518b148d45d4f-4d-1793206904-1793152904",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:58:12.126Z"
+      "updatedAt": "2026-10-28T04:31:52.695Z"
     }
   },
-  "lastUpdated": "2026-10-28T03:58:13.248Z"
+  "lastUpdated": "2026-10-28T04:31:55.648Z"
 }
