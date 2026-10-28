@@ -14,22 +14,22 @@
     },
     "https://streamxhd.sbs/live1.php?stream=nba4": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba4/index.m3u8?ip=200.127.24.170&token=a4a832943d61cff7c4fef174562b27c9c4e81e05-05-1793202850-1793148850",
+      "url": "https://khala.futlivehd.com/global/nba4/index.m3u8?ip=200.127.24.170&token=0c83d4545416d43e59b8c1fced3a5928ca1eb02c-bb-1793204882-1793150882",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:24:14.337Z"
+      "updatedAt": "2026-10-28T03:58:05.596Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney15": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=dbb7174744f41e1828d7a6a09d3d07e9ccb1ef8c-2a-1793202843-1793148843",
+      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=5ce7875f90432066906a7770a245402f0c778376-b6-1793204871-1793150871",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:24:07.676Z"
+      "updatedAt": "2026-10-28T03:57:59.474Z"
     },
     "https://streamxhd.sbs/live1.php?stream=max2": {
       "name": "HBO Max 2",
-      "url": "https://khala.futlivehd.com/global/max2/index.m3u8?ip=200.127.24.170&token=9dcfe41c597d66d2a8d2e4a50f11aaf63070202f-cb-1793202857-1793148857",
+      "url": "https://khala.futlivehd.com/global/max2/index.m3u8?ip=200.127.24.170&token=05bc8cdf9dced26878560a5b08af5850f08356b5-99-1793204888-1793150888",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-10-28T03:24:21.279Z"
+      "updatedAt": "2026-10-28T03:58:12.126Z"
     }
   },
-  "lastUpdated": "2026-10-28T03:24:22.586Z"
+  "lastUpdated": "2026-10-28T03:58:13.248Z"
 }
