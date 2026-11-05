@@ -2,21 +2,21 @@
   "streams": {
     "https://streamxhd.sbs/live1.php?stream=winsports": {
       "name": "Win Sports",
-      "url": "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=200.127.24.170&token=94396a8c44d557312cc33270d074d6e7f6055dd3-8b-1793905176-1793851176",
+      "url": "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=200.127.24.170&token=52cfbd4600f8af71e611c151ce3ea3fa94450be6-ab-1793907552-1793853552",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:29:42.682Z"
+      "updatedAt": "2026-11-05T07:09:21.286Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn2": {
       "name": "ESPN 2",
-      "url": "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=200.127.24.170&token=954b0fb5c234b3b9dbd028faf41ca12b876f2e93-ec-1793905238-1793851238",
+      "url": "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=200.127.24.170&token=ad4ed0e6f5413c516ce20c3cd7524ddc3421155d-10-1793907618-1793853618",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:44.281Z"
+      "updatedAt": "2026-11-05T07:10:23.669Z"
     },
     "https://streamxhd.sbs/live1.php?stream=winplus": {
       "name": "Win Sports +",
-      "url": "https://khala.futlivehd.com/global/winplus/index.m3u8?ip=200.127.24.170&token=bdc6db6407ede565db411e5b46eaecb3aecd828e-71-1793905588-1793851588",
+      "url": "https://khala.futlivehd.com/global/winplus/index.m3u8?ip=200.127.24.170&token=c1818c65f6597116eff2cd3fad9072ffde8375d0-b3-1793907991-1793853991",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:33.487Z"
+      "updatedAt": "2026-11-05T07:16:36.184Z"
     },
     "https://streamxhd.sbs/live1.php?stream=tigo1": {
       "name": "Tigo Sports",
@@ -26,267 +26,267 @@
     },
     "https://streamxhd.sbs/live1.php?stream=zapping_ec": {
       "name": "DSports Eventos",
-      "url": "https://khala.futlivehd.com/global/zapping_ec/index.m3u8?ip=200.127.24.170&token=0ee58a1594f3ace64656008b8d98894c13298627-d4-1793905219-1793851219",
+      "url": "https://khala.futlivehd.com/global/zapping_ec/index.m3u8?ip=200.127.24.170&token=5f287affdd67eaed5d41957566b401435b8420ab-70-1793907600-1793853600",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:25.134Z"
+      "updatedAt": "2026-11-05T07:10:05.807Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney14": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney14/index.m3u8?ip=200.127.24.170&token=d08e9356ab56be4d6300b7b5231963c8de11653d-1a-1793905468-1793851468",
+      "url": "https://khala.futlivehd.com/global/disney14/index.m3u8?ip=200.127.24.170&token=bd9c6ae55452e13334939a1b85113c2bb9dc9a13-74-1793907847-1793853847",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:33.726Z"
+      "updatedAt": "2026-11-05T07:14:12.212Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba2": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba2/index.m3u8?ip=200.127.24.170&token=274e62a82a3bc4f7a0a8391f1f0e3ac35a7ed47b-d6-1793905604-1793851604",
+      "url": "https://khala.futlivehd.com/global/nba2/index.m3u8?ip=200.127.24.170&token=53c237414232744219fd374fa6531e53c7a00d68-ee-1793908009-1793854009",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:49.577Z"
+      "updatedAt": "2026-11-05T07:16:54.540Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba1": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba1/index.m3u8?ip=200.127.24.170&token=06b859ede60721fc9b77f032afba5833d1c46a83-11-1793905596-1793851596",
+      "url": "https://khala.futlivehd.com/global/nba1/index.m3u8?ip=200.127.24.170&token=9f325901882dcb18aa82d5fed86dcd58a6ca5f8e-26-1793907999-1793853999",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:41.865Z"
+      "updatedAt": "2026-11-05T07:16:44.378Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba6": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba6/index.m3u8?ip=200.127.24.170&token=bd751571dcf9ba234b20af25a57dae2ab26fe5a5-4a-1793905613-1793851613",
+      "url": "https://khala.futlivehd.com/global/nba6/index.m3u8?ip=200.127.24.170&token=a72bd5a1972afb5112327f60ff6710a33cdd8333-9d-1793908017-1793854017",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:59.461Z"
+      "updatedAt": "2026-11-05T07:17:03.492Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba7": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba7/index.m3u8?ip=200.127.24.170&token=e7634edb0075d8a167a70b0c363e9f5865413753-e8-1793905622-1793851622",
+      "url": "https://khala.futlivehd.com/global/nba7/index.m3u8?ip=200.127.24.170&token=85872fac8de10b2151a545de5ebb758cdeeafd99-f7-1793908026-1793854026",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:07.342Z"
+      "updatedAt": "2026-11-05T07:17:14.277Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba8": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba8/index.m3u8?ip=200.127.24.170&token=ac4d3717b37b0b275fc18b108748181a3b4e93c1-50-1793905630-1793851630",
+      "url": "https://khala.futlivehd.com/global/nba8/index.m3u8?ip=200.127.24.170&token=f5011b9cc027978073679b1f74a5c1da3a10ffe7-6e-1793908039-1793854039",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:16.412Z"
+      "updatedAt": "2026-11-05T07:17:24.659Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba9": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba9/index.m3u8?ip=200.127.24.170&token=f1c8c9a2cdd8f0e92625f1a667cf962ec1ef852b-55-1793905639-1793851639",
+      "url": "https://khala.futlivehd.com/global/nba9/index.m3u8?ip=200.127.24.170&token=a01d62ed94e41896525b2e167f1c6ec09793bf01-27-1793908047-1793854047",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:24.966Z"
+      "updatedAt": "2026-11-05T07:17:33.094Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba10": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba10/index.m3u8?ip=200.127.24.170&token=44b6c0eb7e4ed70a9c2fc6ed3ee0b77de6776d68-9e-1793905648-1793851648",
+      "url": "https://khala.futlivehd.com/global/nba10/index.m3u8?ip=200.127.24.170&token=fa301c291c30ceb66b3dc4198bbd40c30999f9d4-fc-1793908055-1793854055",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:33.630Z"
+      "updatedAt": "2026-11-05T07:17:40.915Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba11": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba11/index.m3u8?ip=200.127.24.170&token=1a0db08b14602aa3f8a95e6d6804fad5519b2a8a-05-1793905656-1793851656",
+      "url": "https://khala.futlivehd.com/global/nba11/index.m3u8?ip=200.127.24.170&token=12b5b36a002bcb2dfec76a341e5a4a0f9b6aac51-7c-1793908064-1793854064",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:41.988Z"
+      "updatedAt": "2026-11-05T07:17:49.301Z"
     },
     "https://streamxhd.sbs/live1.php?stream=nba12": {
       "name": "NBA League Pass",
-      "url": "https://khala.futlivehd.com/global/nba12/index.m3u8?ip=200.127.24.170&token=a3e9841b12b801d10383d2e9caf1fd9962d3804c-cd-1793905664-1793851664",
+      "url": "https://khala.futlivehd.com/global/nba12/index.m3u8?ip=200.127.24.170&token=53759eca820d947a81e9420300d7fd2e015c02b2-72-1793908073-1793854073",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:50.104Z"
+      "updatedAt": "2026-11-05T07:17:58.762Z"
     },
     "https://streamxhd.sbs/live1.php?stream=premiere1": {
       "name": "Premiere 1",
-      "url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=200.127.24.170&token=bdcc3d4ccb39b84350d08951bf92fc1485193c72-ac-1793905185-1793851185",
+      "url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=200.127.24.170&token=ad3bf9de40ebac09fd3d65d29672dacb38949718-c7-1793907564-1793853564",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:29:50.934Z"
+      "updatedAt": "2026-11-05T07:09:30.980Z"
     },
     "https://streamxhd.sbs/live1.php?stream=amazon1": {
       "name": "Prime Video",
-      "url": "https://khala.futlivehd.com/global/amazon1/index.m3u8?ip=200.127.24.170&token=67a99af86ebac06155f964b13eced0c856138d58-d8-1793905193-1793851193",
+      "url": "https://khala.futlivehd.com/global/amazon1/index.m3u8?ip=200.127.24.170&token=8e6f31cfa1d9d71891921250686d01a82086cac3-ae-1793907573-1793853573",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:29:59.396Z"
+      "updatedAt": "2026-11-05T07:09:40.236Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney7": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=200.127.24.170&token=2e64f2a6f0a18fca2ef30cef016684bd2b332f59-26-1793905202-1793851202",
+      "url": "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=200.127.24.170&token=8cddd8c1908bbdba0ccd8c00bf329421169c2d5b-27-1793907583-1793853583",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:09.016Z"
+      "updatedAt": "2026-11-05T07:09:48.672Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney8": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=200.127.24.170&token=4317be4276e4813d0a8f484e93deddf16bac5688-9b-1793905211-1793851211",
+      "url": "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=200.127.24.170&token=cd9d020c6e7511e65ef6b45bc35211f108efde99-5c-1793907591-1793853591",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:16.824Z"
+      "updatedAt": "2026-11-05T07:09:57.298Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney1": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney1/index.m3u8?ip=200.127.24.170&token=5a8f1a142f0f5f605042b8e6444d0546d6e184d1-1a-1793905228-1793851228",
+      "url": "https://khala.futlivehd.com/global/disney1/index.m3u8?ip=200.127.24.170&token=70cbec078c7e7288475c0603a43274b6e39323e1-78-1793907610-1793853610",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:34.996Z"
+      "updatedAt": "2026-11-05T07:10:15.831Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney2": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=200.127.24.170&token=f6b16912b65f4d123823b7a4eaa491265e26c993-38-1793905246-1793851246",
+      "url": "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=200.127.24.170&token=ad2a3281f18c59bd450440b68f747247a4f377c7-5c-1793907626-1793853626",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:30:52.412Z"
+      "updatedAt": "2026-11-05T07:10:32.219Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn3": {
       "name": "ESPN 3",
-      "url": "https://khala.futlivehd.com/global/espn3/index.m3u8?ip=200.127.24.170&token=cf77ca89ba5c957ed75df0bf0765f5ff67fc0aa4-82-1793905255-1793851255",
+      "url": "https://khala.futlivehd.com/global/espn3/index.m3u8?ip=200.127.24.170&token=d4e103845dc44f18432367aafd7f76b45152db9e-78-1793907634-1793853634",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:00.060Z"
+      "updatedAt": "2026-11-05T07:10:40.805Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn2ar": {
       "name": "ESPN 2 AR",
-      "url": "https://khala.futlivehd.com/global/espn2ar/index.m3u8?ip=200.127.24.170&token=718ca26338da6fbd552d06eb4e1e28ca1bb9c53c-3c-1793905263-1793851263",
+      "url": "https://khala.futlivehd.com/global/espn2ar/index.m3u8?ip=200.127.24.170&token=50e601df49a965ae85002cbaff635f5f10f3b056-16-1793907644-1793853644",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:09.325Z"
+      "updatedAt": "2026-11-05T07:10:49.452Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney3": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=200.127.24.170&token=ab528ee943a77d6e99ae14c4545f2ec0652de22b-a5-1793905272-1793851272",
+      "url": "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=200.127.24.170&token=3f861fc65717ab783af0e607d5d9463a325702b6-d9-1793907652-1793853652",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:17.955Z"
+      "updatedAt": "2026-11-05T07:10:57.475Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn4": {
       "name": "ESPN 4",
-      "url": "https://khala.futlivehd.com/global/espn4/index.m3u8?ip=200.127.24.170&token=49e3d92978bdd9b691f385fc90f711056f6f9e6f-57-1793905280-1793851280",
+      "url": "https://khala.futlivehd.com/global/espn4/index.m3u8?ip=200.127.24.170&token=839f634b57f0df7930bb5ac408b7dee9ecc84ef1-5f-1793907660-1793853660",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:25.843Z"
+      "updatedAt": "2026-11-05T07:11:06.114Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney4": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney4/index.m3u8?ip=200.127.24.170&token=aa69b6ec4493d956e453982eae7f7d47fcf0d111-0a-1793905288-1793851288",
+      "url": "https://khala.futlivehd.com/global/disney4/index.m3u8?ip=200.127.24.170&token=7cbff8412e38e56ac0c226409d1380ce6e014833-1f-1793907668-1793853668",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:33.941Z"
+      "updatedAt": "2026-11-05T07:11:14.789Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney5": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=200.127.24.170&token=fe582c2a3214ea0f3bd7efd5986d8d417a386330-d9-1793905297-1793851297",
+      "url": "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=200.127.24.170&token=9f3a0ffb9e32b82596bf4994292944fa947f91c9-15-1793907678-1793853678",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:44.847Z"
+      "updatedAt": "2026-11-05T07:11:23.844Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney6": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney6/index.m3u8?ip=200.127.24.170&token=0b4debfda30a493728ac5e23fe0e86b1661779f0-fe-1793905307-1793851307",
+      "url": "https://khala.futlivehd.com/global/disney6/index.m3u8?ip=200.127.24.170&token=9291b43951e11677516f37f4f0d7d2b027a41294-34-1793907686-1793853686",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:31:52.501Z"
+      "updatedAt": "2026-11-05T07:11:32.461Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn5": {
       "name": "ESPN 5",
-      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=200.127.24.170&token=00ec591e1c16aa749d90b468f2f0521b294ffe9d-32-1793905315-1793851315",
+      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=200.127.24.170&token=10beedff6266753cfcef6030402e004004544906-05-1793907695-1793853695",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:00.600Z"
+      "updatedAt": "2026-11-05T07:11:40.443Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn": {
       "name": "ESPN",
-      "url": "https://khala.futlivehd.com/global/espn/index.m3u8?ip=200.127.24.170&token=9ba8c62194856e6f2b718d70ceeb6948cdb7a582-62-1793905323-1793851323",
+      "url": "https://khala.futlivehd.com/global/espn/index.m3u8?ip=200.127.24.170&token=b06d135d9156929a8bb59bd620b698f20cbefd90-91-1793907703-1793853703",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:09.146Z"
+      "updatedAt": "2026-11-05T07:11:49.609Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espnar": {
       "name": "ESPN AR",
-      "url": "https://khala.futlivehd.com/global/espnar/index.m3u8?ip=200.127.24.170&token=d504a6d64d7ec1afcadbaacf54027367a46a169a-b1-1793905332-1793851332",
+      "url": "https://khala.futlivehd.com/global/espnar/index.m3u8?ip=200.127.24.170&token=2ada9eba0da1c1aabfb2adc129620f885f89579a-7e-1793907712-1793853712",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:19.108Z"
+      "updatedAt": "2026-11-05T07:11:57.448Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney19": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney19/index.m3u8?ip=200.127.24.170&token=b53be5745819ebaf7ff83e6a5cca3755994bc7ca-d9-1793905341-1793851341",
+      "url": "https://khala.futlivehd.com/global/disney19/index.m3u8?ip=200.127.24.170&token=4bf7d4476e66e22a6efa5e0f543c269a62817cf7-5e-1793907720-1793853720",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:27.198Z"
+      "updatedAt": "2026-11-05T07:12:06.096Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney20": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney20/index.m3u8?ip=200.127.24.170&token=d05bd4828caf281bb98892c8603c5c4a88c8dd8e-27-1793905349-1793851349",
+      "url": "https://khala.futlivehd.com/global/disney20/index.m3u8?ip=200.127.24.170&token=b4311a55beb953fe9bcec771540a775683b1424e-dc-1793907729-1793853729",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:35.041Z"
+      "updatedAt": "2026-11-05T07:12:14.080Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney21": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney21/index.m3u8?ip=200.127.24.170&token=010148502111eddccd710f8455f8e173926731b3-92-1793905358-1793851358",
+      "url": "https://khala.futlivehd.com/global/disney21/index.m3u8?ip=200.127.24.170&token=5caa4ba1f6c17991add332c6425531a1ea558c85-ff-1793907737-1793853737",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:43.790Z"
+      "updatedAt": "2026-11-05T07:12:23.365Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn7": {
       "name": "ESPN 7",
-      "url": "https://khala.futlivehd.com/global/espn7/index.m3u8?ip=200.127.24.170&token=5f9ab766e3282856408d60e5de0879109ce94664-89-1793905367-1793851367",
+      "url": "https://khala.futlivehd.com/global/espn7/index.m3u8?ip=200.127.24.170&token=17983ad5c47c16def43f1f4cf14dbcbced60ed6d-65-1793907746-1793853746",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:32:52.976Z"
+      "updatedAt": "2026-11-05T07:12:31.905Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney22": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney22/index.m3u8?ip=200.127.24.170&token=f3d41b7120559572f052c2ae5d5e3a7acf47f72e-8b-1793905375-1793851375",
+      "url": "https://khala.futlivehd.com/global/disney22/index.m3u8?ip=200.127.24.170&token=b0de387fd3dc2ef37ae74660a2445360b4232a26-3a-1793907755-1793853755",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:00.907Z"
+      "updatedAt": "2026-11-05T07:12:40.173Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney23": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney23/index.m3u8?ip=200.127.24.170&token=cf35df0b2ae5994abdea8ed915da8f5f9f12ad91-2d-1793905383-1793851383",
+      "url": "https://khala.futlivehd.com/global/disney23/index.m3u8?ip=200.127.24.170&token=e56d8309e6a54c3e8cd792d33623ee1233b01b78-ca-1793907762-1793853762",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:08.580Z"
+      "updatedAt": "2026-11-05T07:12:48.482Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney24": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney24/index.m3u8?ip=200.127.24.170&token=075a399faf43a4e503cb9be2caa509d87b849280-01-1793905392-1793851392",
+      "url": "https://khala.futlivehd.com/global/disney24/index.m3u8?ip=200.127.24.170&token=dce1018b9e0b03f6a16dd5a8a21f62790ee5fb5a-1a-1793907771-1793853771",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:18.182Z"
+      "updatedAt": "2026-11-05T07:12:56.444Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney25": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney25/index.m3u8?ip=200.127.24.170&token=7999d16fc2c19fd2f5a60f579783c4e968996438-ff-1793905401-1793851401",
+      "url": "https://khala.futlivehd.com/global/disney25/index.m3u8?ip=200.127.24.170&token=c24705ae77692f38de7440b33be8342d70976649-64-1793907779-1793853779",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:26.523Z"
+      "updatedAt": "2026-11-05T07:13:05.159Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney26": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney26/index.m3u8?ip=200.127.24.170&token=e04b20fedd73bee8e61b72e9e649e2a6f017a224-ee-1793905409-1793851409",
+      "url": "https://khala.futlivehd.com/global/disney26/index.m3u8?ip=200.127.24.170&token=516f56ead59b9e174a5cabe7824dc166054199bc-2c-1793907787-1793853787",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:34.490Z"
+      "updatedAt": "2026-11-05T07:13:12.892Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney27": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney27/index.m3u8?ip=200.127.24.170&token=152e20db8f9e561b84853df2d8d52c37cf4b1903-31-1793905417-1793851417",
+      "url": "https://khala.futlivehd.com/global/disney27/index.m3u8?ip=200.127.24.170&token=f260893d77ba5bd7013f079aea10aabb6089d81f-2f-1793907795-1793853795",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:43.133Z"
+      "updatedAt": "2026-11-05T07:13:21.244Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney10": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney10/index.m3u8?ip=200.127.24.170&token=c56f9e7700cd63bff7a06eae29afb4d3e26f6094-5f-1793905435-1793851435",
+      "url": "https://khala.futlivehd.com/global/disney10/index.m3u8?ip=200.127.24.170&token=da1327f76a3e928daec7371b719719c385e8e43d-8e-1793907812-1793853812",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:00.253Z"
+      "updatedAt": "2026-11-05T07:13:38.829Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney11": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney11/index.m3u8?ip=200.127.24.170&token=c2006a42184ebf8dbed68cb0a00cd4f80f1c2122-13-1793905443-1793851443",
+      "url": "https://khala.futlivehd.com/global/disney11/index.m3u8?ip=200.127.24.170&token=f8dbeec964b4d3d2b8d1c8eec971a9133d2b1d2b-49-1793907821-1793853821",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:08.444Z"
+      "updatedAt": "2026-11-05T07:13:46.778Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney12": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney12/index.m3u8?ip=200.127.24.170&token=dc73d25f462d954a373d8e826b2ce0a1b1008404-b7-1793905451-1793851451",
+      "url": "https://khala.futlivehd.com/global/disney12/index.m3u8?ip=200.127.24.170&token=6ac365663351acc35918acac1779a0ec8fba5dcf-af-1793907829-1793853829",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:17.351Z"
+      "updatedAt": "2026-11-05T07:13:55.738Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney13": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney13/index.m3u8?ip=200.127.24.170&token=95eba665bd6818fefc5038197b6af52800d94d46-ad-1793905460-1793851460",
+      "url": "https://khala.futlivehd.com/global/disney13/index.m3u8?ip=200.127.24.170&token=11254947d37b93c6ec204743efb919dd32c75125-72-1793907838-1793853838",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:26.028Z"
+      "updatedAt": "2026-11-05T07:14:03.550Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney15": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=972bab0431188a51efe44d37bc2d62ae2e9a6332-02-1793905476-1793851476",
+      "url": "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=200.127.24.170&token=4cf419d8a6e3ab347e5a4058071f027510e070b5-e7-1793907854-1793853854",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:41.804Z"
+      "updatedAt": "2026-11-05T07:14:20.183Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney16": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney16/index.m3u8?ip=200.127.24.170&token=dc9f0e99fe3fdd71916180d747a22f5ebfd65696-9a-1793905484-1793851484",
+      "url": "https://khala.futlivehd.com/global/disney16/index.m3u8?ip=200.127.24.170&token=9c0991dd5edbd19d8d76441dc7f98620ba3cf7b5-a0-1793907863-1793853863",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:50.818Z"
+      "updatedAt": "2026-11-05T07:14:28.989Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney17": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney17/index.m3u8?ip=200.127.24.170&token=896a6b8651e091e16f0e88959d5dc8761a75ac48-60-1793905493-1793851493",
+      "url": "https://khala.futlivehd.com/global/disney17/index.m3u8?ip=200.127.24.170&token=97fb8bf3683580cef40a0e143a15d43134df1831-55-1793907871-1793853871",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:34:59.355Z"
+      "updatedAt": "2026-11-05T07:14:37.588Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney28": {
       "name": "Disney +",
@@ -296,70 +296,70 @@
     },
     "https://streamxhd.sbs/live1.php?stream=disney29": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney29/index.m3u8?ip=200.127.24.170&token=46bd0899faa44e0b3e9b8dc1089c3b4e4dc49851-07-1793905510-1793851510",
+      "url": "https://khala.futlivehd.com/global/disney29/index.m3u8?ip=200.127.24.170&token=551565670f0399dbed71f0597efa6737e2ae49d3-59-1793907913-1793853913",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:15.684Z"
+      "updatedAt": "2026-11-05T07:15:19.169Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espnpremium": {
       "name": "ESPN Premium",
-      "url": "https://khala.futlivehd.com/global/espnpremium/index.m3u8?ip=200.127.24.170&token=cb45a61b3c0fc3222324308be304561415b1bf6e-0a-1793905528-1793851528",
+      "url": "https://khala.futlivehd.com/global/espnpremium/index.m3u8?ip=200.127.24.170&token=c07c80a8c282502957ce0f2648c44fb7dbc8221a-03-1793907931-1793853931",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:33.655Z"
+      "updatedAt": "2026-11-05T07:15:36.289Z"
     },
     "https://streamxhd.sbs/live1.php?stream=tntsports": {
       "name": "TNT Sports",
-      "url": "https://khala.futlivehd.com/global/tntsports/index.m3u8?ip=200.127.24.170&token=2e1b9048d5db209da327f7d27553b64c2a911616-1c-1793905536-1793851536",
+      "url": "https://khala.futlivehd.com/global/tntsports/index.m3u8?ip=200.127.24.170&token=a230e9a1d290e08cde04ae5e1f11e87957abb409-08-1793907939-1793853939",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:41.991Z"
+      "updatedAt": "2026-11-05T07:15:46.255Z"
     },
     "https://streamxhd.sbs/live1.php?stream=vix1": {
       "name": "Vix +",
-      "url": "https://khala.futlivehd.com/global/vix1/index.m3u8?ip=200.127.24.170&token=3070c5c1723184debadcdbb769d84cd112c3ec7f-d2-1793905544-1793851544",
+      "url": "https://khala.futlivehd.com/global/vix1/index.m3u8?ip=200.127.24.170&token=1de86c06e2d5a5bbf8353b8e9bc9ef2b45015320-c3-1793907948-1793853948",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:50.410Z"
+      "updatedAt": "2026-11-05T07:15:54.250Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney18": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney18/index.m3u8?ip=200.127.24.170&token=700966fb811fa58b75712c0e20706bc832dcee89-6a-1793905554-1793851554",
+      "url": "https://khala.futlivehd.com/global/disney18/index.m3u8?ip=200.127.24.170&token=ed07d06dfdb800d8f1d313c94277dbb32ebd253f-52-1793907957-1793853957",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:59.020Z"
+      "updatedAt": "2026-11-05T07:16:02.703Z"
     },
     "https://streamxhd.sbs/live1.php?stream=espn6": {
       "name": "ESPN 6",
-      "url": "https://khala.futlivehd.com/global/espn6/index.m3u8?ip=200.127.24.170&token=40825d62e846fe48bdbed2feb2a0bb60052c072a-ff-1793905562-1793851562",
+      "url": "https://khala.futlivehd.com/global/espn6/index.m3u8?ip=200.127.24.170&token=d7ace2cafdfeceb61248c5560f8e4bddab02b8fa-49-1793907965-1793853965",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:08.235Z"
+      "updatedAt": "2026-11-05T07:16:10.877Z"
     },
     "https://streamxhd.sbs/live1.php?stream=max1": {
       "name": "HBO Max",
-      "url": "https://khala.futlivehd.com/global/max1/index.m3u8?ip=200.127.24.170&token=cbeff90c542457f72e6807faba38238f38270fc6-d1-1793905571-1793851571",
+      "url": "https://khala.futlivehd.com/global/max1/index.m3u8?ip=200.127.24.170&token=487a1a410bfbf50497958fb08eba6c97bd323194-e8-1793907973-1793853973",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:16.272Z"
+      "updatedAt": "2026-11-05T07:16:19.489Z"
     },
     "https://streamxhd.sbs/live1.php?stream=tntsportschile": {
       "name": "TNT Sports Chile",
-      "url": "https://khala.futlivehd.com/global/tntsportschile/index.m3u8?ip=200.127.24.170&token=d8bb134214545402d3304760cc15b70291e435ad-3c-1793905579-1793851579",
+      "url": "https://khala.futlivehd.com/global/tntsportschile/index.m3u8?ip=200.127.24.170&token=049044b1efb225cbcb12402693f38732aaa195ed-c7-1793907982-1793853982",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:36:25.489Z"
+      "updatedAt": "2026-11-05T07:16:27.977Z"
     },
     "https://streamxhd.sbs/live1.php?stream=fox3ar": {
       "name": "Fox Sports 3 AR",
-      "url": "https://khala.futlivehd.com/global/fox3ar/index.m3u8?ip=200.127.24.170&token=2d13961d882ea16777bbe68c5966de698398a2b4-25-1793905672-1793851672",
+      "url": "https://khala.futlivehd.com/global/fox3ar/index.m3u8?ip=200.127.24.170&token=16b6515c5fc5bf7cd6ca8163fd8ac7c1ab9ea662-4a-1793908081-1793854081",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:37:58.920Z"
+      "updatedAt": "2026-11-05T07:18:07.446Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney9": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney9/index.m3u8?ip=200.127.24.170&token=11644014a7d9466aa05173ed91870c8357423272-6f-1793905425-1793851425",
+      "url": "https://khala.futlivehd.com/global/disney9/index.m3u8?ip=200.127.24.170&token=598e8124ed8bb6d5ffcf765c947df489a9a20255-36-1793907804-1793853804",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:33:51.558Z"
+      "updatedAt": "2026-11-05T07:13:29.817Z"
     },
     "https://streamxhd.sbs/live1.php?stream=disney30": {
       "name": "Disney +",
-      "url": "https://khala.futlivehd.com/global/disney30/index.m3u8?ip=200.127.24.170&token=15bcd6096b238f2bda910fbc42eccfad46c99de7-a0-1793905519-1793851519",
+      "url": "https://khala.futlivehd.com/global/disney30/index.m3u8?ip=200.127.24.170&token=20e0a0ff6f3e07ce7ef7a2344eb2d0e23ea56d6b-6c-1793907922-1793853922",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-05T06:35:25.306Z"
+      "updatedAt": "2026-11-05T07:15:28.400Z"
     }
   },
-  "lastUpdated": "2026-11-05T06:38:00.908Z"
+  "lastUpdated": "2026-11-05T07:18:11.056Z"
 }
