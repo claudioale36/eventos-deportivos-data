@@ -2,52 +2,40 @@
   "streams": {
     "https://streamxhd.sbs/live1.php?stream=espn5": {
       "name": "ESPN 5",
-      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=200.127.24.170&token=cc85cfba63f4d2aa0ad4246e5f16b8a25fe02c69-80-1795788636-1795734636",
+      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=200.127.24.170&token=878deea4eafd90f6ed57cf81a2a938bb4bb0deee-1b-1795790494-1795736494",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:40.076Z"
+      "updatedAt": "2026-11-27T02:11:36.850Z"
     },
     "https://streamxhd.sbs/live1.php?stream=tudn_usa": {
       "name": "TUDN USA",
-      "url": "https://khala.futlivehd.com/global/tudn_usa/index.m3u8?ip=200.127.24.170&token=8fd15698bc419c69eeb7378cdc142e4a943e357c-bf-1795788600-1795734600",
+      "url": "https://khala.futlivehd.com/global/tudn_usa/index.m3u8?ip=200.127.24.170&token=288b2d30eb47da568aa83b1eb40f15774aea1529-2f-1795790460-1795736460",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:03.843Z"
-    },
-    "https://streamxhd.sbs/live1.php?stream=premiere1": {
-      "name": "Premiere 1",
-      "url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=200.127.24.170&token=0d1509f196d3115b1a6c7f934823d91aa6a84c66-07-1795788591-1795734591",
-      "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:39:57.241Z"
+      "updatedAt": "2026-11-27T02:11:06.820Z"
     },
     "https://streamxhd.sbs/live1.php?stream=foxone": {
       "name": "FOX One",
-      "url": "https://khala.futlivehd.com/global/foxone/index.m3u8?ip=200.127.24.170&token=c99bf7a3e3481bc3ee18fb758a4600ab16d0f45f-43-1795788607-1795734607",
+      "url": "https://khala.futlivehd.com/global/foxone/index.m3u8?ip=200.127.24.170&token=e1fc68b202937a49148fcdd7d2b5effc6bf27a76-cf-1795790469-1795736469",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:09.827Z"
+      "updatedAt": "2026-11-27T02:11:13.445Z"
     },
     "https://streamxhd.sbs/live1.php?stream=dsportsplus": {
       "name": "DSports Plus",
-      "url": "https://khala.futlivehd.com/global/dsportsplus/index.m3u8?ip=200.127.24.170&token=5fb54ebc396a1aff32ed22f50e313110bd78d92b-d7-1795788631-1795734631",
+      "url": "https://khala.futlivehd.com/global/dsportsplus/index.m3u8?ip=200.127.24.170&token=ea296cccbf6ebb9b6598b565ce62b2ce42c88a10-20-1795790482-1795736482",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:34.184Z"
-    },
-    "https://streamxhd.sbs/live1.php?stream=tigo1": {
-      "name": "Tigo Sports",
-      "url": "https://khala.futlivehd.com/global/tigo1/index.m3u8?ip=200.127.24.170&token=3bd51746f6f5c0a51feb19980e92d77389812bf8-e4-1795788613-1795734613",
-      "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:16.074Z"
+      "updatedAt": "2026-11-27T02:11:24.789Z"
     },
     "https://streamxhd.sbs/live1.php?stream=evento1": {
       "name": "Evento 1",
-      "url": "https://khala.futlivehd.com/global/evento1/index.m3u8?ip=200.127.24.170&token=d7a473fdad174d96c0ee7b361f8ca5c7ae71397c-1c-1795788619-1795734619",
+      "url": "https://khala.futlivehd.com/global/evento1/index.m3u8?ip=200.127.24.170&token=5389bd8be0f9da48c15d35195915e16c37010caa-b6-1795790476-1795736476",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:22.423Z"
+      "updatedAt": "2026-11-27T02:11:19.297Z"
     },
     "https://streamxhd.sbs/live1.php?stream=dsports2": {
       "name": "DSports 2",
-      "url": "https://khala.futlivehd.com/global/dsports2/index.m3u8?ip=200.127.24.170&token=96ba74bfe426044e0a17e23cf552512f869657df-fe-1795788625-1795734625",
+      "url": "https://khala.futlivehd.com/global/dsports2/index.m3u8?ip=200.127.24.170&token=80e4d20802ae47bc421f91f77a4b5a0f25aa9de6-44-1795790487-1795736487",
       "referer": "https://streamxhd.sbs/",
-      "updatedAt": "2026-11-27T01:40:28.159Z"
+      "updatedAt": "2026-11-27T02:11:31.114Z"
     }
   },
-  "lastUpdated": "2026-11-27T01:40:41.555Z"
+  "lastUpdated": "2026-11-27T02:11:38.554Z"
 }
